@@ -5,18 +5,15 @@
   padding: 20px;
   font-family: Arial, sans-serif;
 }
-
 .controls {
   display: flex;
   flex-direction: column;
   gap: 10px;
   max-width: 200px;
 }
-
 .controls h3 {
   margin-bottom: 10px;
 }
-
 .container {
   display: flex;
   width: 600px;
@@ -24,7 +21,6 @@
   background-color: cyan;
   padding: 10px;
 }
-
 .box {
   display: flex;
   align-items: center;
@@ -35,15 +31,12 @@
   font-size: 20px;
   font-weight: bold;
 }
-
 .box1 {
   background-color: teal;
 }
-
 .box2 {
   background-color: tomato;
 }
-
 .box3 {
   background-color: purple;
 }
